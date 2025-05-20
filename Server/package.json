@@ -16,7 +16,7 @@
     "nano": "^10.1.4",
     "node-couchdb": "^2.0.0",
     "nodemon": "^3.1.10",
-    "puppeteer": "^24.7.1",
+    "puppeteer": "^24.9.0",
     "express": "^5.1.0",
     "http-proxy-middleware": "^3.0.3"
   },
